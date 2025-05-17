@@ -17,7 +17,7 @@ const Header = () => {
     <header className="flex justify-between items-center py-4 px-4 lg:px-20">
       <h1 data-aos="fade-down"
      data-aos-easing="linear"
-     data-aos-duration="1500" className="text-3xl md:text-4xl lg:text-5xl font-light m-0">
+     data-aos-duration="1500" className="text-2xl md:text-4xl lg:text-5xl font-light m-0">
         DAVID RUIZ
       </h1>
 
@@ -61,7 +61,7 @@ const Header = () => {
       </nav>
 
       <button className="hidden md:block bg-[#a7a7a7] text-black py-3 px-8 rounded-full border-none font-medium transition-all duration-500 hover:bg-white cursor-pointer z-50">
-        SING IN
+        SIGN IN
       </button>
 
       {/* Mobile menu button */}
